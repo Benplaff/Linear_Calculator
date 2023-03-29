@@ -16,14 +16,14 @@
 
 # Output:
 
-The program will generate four output files for linear interpolation:  
-    *interpolation-core-0.txt  
-    *interpolation-core-1.txt  
-    *interpolation-core-2.txt  
-    *interpolation-core-3.txt  
+    The program will generate four output files for linear interpolation:  
+        *interpolation-core-0.txt  
+        *interpolation-core-1.txt  
+        *interpolation-core-2.txt  
+        *interpolation-core-3.txt  
 
-The program will generate four output files for least squares approximation:  
-    *least-squares-0.txt  
-    *least-squares-1.txt  
-    *least-squares-2.txt  
-    *least-squares-3.txt  
+    The program will generate four output files for least squares approximation:  
+        *least-squares-0.txt  
+        *least-squares-1.txt  
+        *least-squares-2.txt  
+        *least-squares-3.txt  
