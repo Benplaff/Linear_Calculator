@@ -6,8 +6,8 @@
 
 Linear Interpolation:
     In the directory where linear_interpolation.py is, enter
-        *Windows: type in to the terminal 'python .\linear_interpolation.py .\(input file here)'
-        *Linux: type in to the terminal 'python ./linear_interpolation.py ./(input file here)'
+        \n\t*Windows: type in to the terminal 'python .\linear_interpolation.py .\(input file here)'
+        \n\t*Linux: type in to the terminal 'python ./linear_interpolation.py ./(input file here)'
 
 Global Least Squares Approximation:
     In the directory where linear_interpolation.py is, enter
